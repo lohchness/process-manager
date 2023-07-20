@@ -1,5 +1,8 @@
 # process-manager
 
+https://github.com/lohchness/process-manager/assets/50405970/7479c4d4-df9d-41f1-a7c5-a15b8d0b4616
+
+
 # Overview
 
 This is a process manager capable of simulating allocating memory to processes and scheduling them for execution. In the first phase, a scheduling algorithm will allocate CPU to a process. In the second phase, a memory allocation algorithm will be used to allocate memory to processes before the scheduling takes place. Process scheduling is based on a scheduling algorithm with the assumption of a single CPU.
